@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 Name : John Kenneth Valdez Combo
 Year Level : 4th Year
 Interest : Loves to play FPS Games
@@ -10,4 +9,6 @@ Computer Specs :
     RAM size : 8192MB RAM
     Disk type : HDD
     Disk Size : 1 TB
+<!--
+
 -->
